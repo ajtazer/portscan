@@ -1,0 +1,12 @@
+{
+    "name": "PortScam",
+    "version": "1.0.0",
+    "description": "Scans Port",
+    "manifest_version": 3,
+    "author": "TAZER",
+    "action":{
+        "default_icon":"dude.png",
+        "default_popup": "index.html",
+        "default_title": "Bruhhh Dude piss off"
+    }
+}
